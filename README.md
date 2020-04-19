@@ -11,23 +11,6 @@ Hello, world! This is CS50, Harvard University's introduction to the intellectua
 
 # Topics
 
-⇢ C, Python, PHP, JavaScript, SQL, CSS, and HTML
-⇢ Git, Flask, ORMs, APIs, Django, GitHub, Travis ci,
-⇢ Abstraction, algorithms, data structures, encapsulation, resource management, security
-⇢ Software engineering, web development
-⇢ Testing, CI/CD, scalability
-⇢ Mobile app development for iOS (Swift)
-⇢ Problems inspired by real-world domains of biology, cryptography, finance, forensics, and gaming.
-
-⇢ JavaScript ES6, React, JSX
-⇢ Components, Props, State, Style
-⇢ Components, Views, User Input
-⇢ Debugging
-⇢ Data
-⇢ Navigation
-⇢ Expo Components
-⇢ Redux
-⇢ Performance
-⇢ Shipping, Testing
+⇢ C, Python, PHP, JavaScript, SQL, CSS, and HTML, Git, Flask, ORMs, APIs, Django, GitHub, Travis ci, Abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, web development, testing, CI/CD, scalability, mobile app development for iOS (Swift), JavaScript ES6, React, JSX, Components, Props, State, Style, Components, Views, User Input, Debugging, Data, Navigation, Expo Components, Redux, Performance, Shipping, Testing
 
 ⇢graph search algorithms, adversarial search, knowledge representation, logical inference, probability theory, Bayesian networks, Markov models, constraint satisfaction, machine learning, reinforcement learning, neural networks, natural language processing
