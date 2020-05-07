@@ -1,6 +1,6 @@
 # Harvard University CS50
 
-Hello, world! This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches students how to think algorithmically and solve problems efficiently. 
+Hello, world! This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. These courses teach students how to think algorithmically and solve problems efficiently. 
 
 # Courses I'm taking
 
